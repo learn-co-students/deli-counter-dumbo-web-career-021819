@@ -55,6 +55,9 @@ describe 'Deli Counter' do
       end
     end
   end
+  
+  
+  
 
   describe "#now_serving" do
     context "there are no people in line" do
